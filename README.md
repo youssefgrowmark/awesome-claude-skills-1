@@ -273,6 +273,7 @@
 - [Skillselion](https://skillselion.com) - Curated directory of Claude Code agent skills, MCP servers, and plugin marketplaces.
 - [AugmentClaude](https://augmentclaude.com) - Free hand-picked marketplace of Claude Code skills, bundles, MCP servers, and agents.
 - [CreatorSkills](https://creatorskills.co) - Marketplace of SKILL.md skills for content creators covering YouTube, sponsorships, and growth.
+- [growmark-ecommerce-skills](https://github.com/youssefgrowmark/claude-skills) - 3 e-commerce skills: metric-first design briefs, product page, cart and checkout teardowns, and honest ad creative test logs. Built for Egypt and Gulf stores (cash on delivery, WhatsApp, Arabic/English).
 
 
 ## 🤝 Contribution
